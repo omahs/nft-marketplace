@@ -14,7 +14,7 @@ Reactjs And Smart Contracts Open Source Basic Nft Marketplace App
 I aim to create an open and safe nft marketplace for everyone. This will be a challenge for both me and the contributors. Together we will create an open source, reliable and beautiful nft marketplace example. The purpose of this project is not to operate an nft marketplace, but to create a template for nft marketplaces. Thus, many nft marketplaces can be easily created by forking and modifying this template. This will be beneficial for us to support the artists. We can only succeed in the world by coming from different areas and joining our forces.
 </p>
 
-## 🖥️ Screenshoots 
+## 🖥️ Screenshots 
 
 ### Home
 
